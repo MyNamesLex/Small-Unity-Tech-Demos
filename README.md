@@ -8,5 +8,5 @@ This game is very buggy and only currently allows to control the Wii Remote's li
 
 ## Mobile
 
-##PC
+## PC
 
