@@ -1,3 +1,4 @@
 *.rar filter=lfs diff=lfs merge=lfs -text
 $ rar .gitattributes
 *.rar linguist-language=csharp
+*.apk linguist-language=csharp
