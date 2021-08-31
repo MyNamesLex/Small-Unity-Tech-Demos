@@ -1,1 +1,3 @@
 *.rar filter=lfs diff=lfs merge=lfs -text
+$ rar .gitattributes
+*.rar linguist-language=csharp
