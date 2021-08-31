@@ -8,5 +8,8 @@ This game is very buggy and only currently allows to control the Wii Remote's li
 
 ## Mobile
 
+I wanted to test out and see how AR Games worked, I used Unity to develop a tester game for Android Mobile only, to play. You wait until you see grey panels and tap to play a cube, then you can give the cube treats by swiping up to give him spheres.
+
 ## PC
 
+This was the first time I tested out NavMesh, it's a slenderman-esque game where you collect spheres and avoid being caught by the enemy
