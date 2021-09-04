@@ -18,7 +18,7 @@ This was the first time I tested out NavMesh, it's a slenderman-esque game where
 
 ### Procedural-Generation
 
-I wanted to try out procedural generation so I followed a Brackeys Tutorial and made this
+I wanted to try out procedural generation so I followed a Brackeys Tutorial and made this, I used the terrain component to geenrate the terrain and an offset command to give it a wave sort of look to it. Then i used perlin noise to generate a heightmap with the given width, height and scale of how large i want the map to be
 
 ### Mesh-Generation
 
