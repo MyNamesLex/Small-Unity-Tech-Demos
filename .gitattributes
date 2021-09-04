@@ -3,3 +3,4 @@ $ rar .gitattributes
 $ apk .gitattributes
 *.rar linguist-language=csharp
 *.apk linguist-language=csharp
+ARGame.rar filter=lfs diff=lfs merge=lfs -text

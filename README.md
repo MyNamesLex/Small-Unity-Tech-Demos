@@ -15,3 +15,7 @@ I wanted to test out and see how AR Games worked, I used Unity to develop a test
 ### Survival-Horror-Game
 
 This was the first time I tested out NavMesh, it's a slenderman-esque game where you collect spheres and avoid being caught by the enemy
+
+### Procedural-Generation
+
+I wanted to try out procedural generation so I followed a Brackeys Tutorial and made this
