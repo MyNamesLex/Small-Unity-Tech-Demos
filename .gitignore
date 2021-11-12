@@ -1,3 +1,4 @@
 Logs/
 *.preset
 *.meta
+**/PackageCache
