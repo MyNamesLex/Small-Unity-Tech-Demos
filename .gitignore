@@ -2,3 +2,4 @@ Logs/
 *.preset
 *.meta
 **/PackageCache
+ASP.NET linguist-detectable=false
