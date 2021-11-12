@@ -4,3 +4,6 @@ $ apk .gitattributes
 *.rar linguist-language=csharp
 *.apk linguist-language=csharp
 ARGame.rar filter=lfs diff=lfs merge=lfs -text
+Procedural-Generation.rar filter=lfs diff=lfs merge=lfs -text
+MeshGeneration.rar filter=lfs diff=lfs merge=lfs -text
+Mesh-Generation.rar filter=lfs diff=lfs merge=lfs -text
