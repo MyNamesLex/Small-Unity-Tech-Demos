@@ -1,5 +1,7 @@
 # Small Unity Games
 
+(This repo only involves use of the Unity Game Engine using the C# language)
+
 ## Wii
 
 This is a game using the Wii Remote using this API - https://github.com/Flafla2/Unity-Wiimote/releases/tag/v1.1
