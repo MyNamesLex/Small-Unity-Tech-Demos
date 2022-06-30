@@ -14,6 +14,6 @@ I wanted to test out and see how AR Games worked, I used Unity to develop a test
 
 ## PC
 
-### Survival-Horror-Game
+### Player-Controller
 
-This was the first time I tested out NavMesh, it's a slenderman-esque game where you collect spheres and avoid being caught by the enemy
+This is a player controller I made during my spare time for fun. It contains the following features. Coyote Jump, Jump Buffer, Slide, Crouch, Wall Running, Jump, Pistol, Shotgun and Knife Mechanics, First Person Camera Controller, Ground Slam, Upwards and Downwards gravity. On the more programming side it features a finite state machine to help with ease of development
