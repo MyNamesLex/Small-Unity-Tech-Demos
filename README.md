@@ -4,7 +4,7 @@
 
 ## Wii
 
-### WiiMoteDemo
+### WiiMote Demo
 
 This is a demo using the Wii Remote using this API - https://github.com/Flafla2/Unity-Wiimote/releases/tag/v1.1
 
