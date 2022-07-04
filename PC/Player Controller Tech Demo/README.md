@@ -1,4 +1,8 @@
-# Controls
+# Player Controller
+
+This is a first person player controller
+
+## Controls
 WASD - Move
 
 LCTRL - Slide + Ground Slam
