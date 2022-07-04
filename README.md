@@ -14,6 +14,10 @@ I wanted to test out and see how AR Games worked, I used Unity to develop a test
 
 ## PC
 
-### Player-Controller
+### Player-Controller-Tech-Demo
 
 This is a player controller I made during my spare time for fun. It contains the following features. Coyote Jump, Jump Buffer, Slide, Crouch, Wall Running, Jump, Pistol, Shotgun and Knife Mechanics, First Person Camera Controller, Ground Slam, Upwards and Downwards gravity. On the more programming side it features a finite state machine to help with ease of development
+
+### Phone-Simulator-Tech-Demo
+
+This is a simulation of a phone with home screen pages, apps, recieving message function from an input field to try out a different type of demo to explore new aspects that I haven't really touched on or explored before such as pointer event data and event systems;
