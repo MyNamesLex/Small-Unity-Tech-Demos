@@ -1,4 +1,4 @@
-# Small Unity Games
+# Small Unity Tech Demos
 
 (This repo only involves use of the Unity Game Engine using the C# language)
 
