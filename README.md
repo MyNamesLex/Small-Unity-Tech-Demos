@@ -4,7 +4,7 @@
 
 ## Wii
 
-### WiiMoteGame
+### WiiMoteDemo
 
 This is a demo using the Wii Remote using this API - https://github.com/Flafla2/Unity-Wiimote/releases/tag/v1.1
 
@@ -12,7 +12,7 @@ This demo is very buggy and only currently allows to control the Wii Remote's li
 
 ## Mobile
 
-### AR Game
+### AR Demo
 
 I wanted to test out and see how AR Games worked, I used Unity to develop a demo for Android Mobile only, to play. You wait until you see grey panels and tap to play a cube, then you can give the cube treats by swiping up to give him spheres.
 
