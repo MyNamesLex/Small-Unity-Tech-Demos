@@ -13,3 +13,5 @@ Click On App - Enters App
 Home Button (Bottom Of Phone) - Exit An App
 
 Send Message Button - Sends Message To Phone With The Text Entered From The Sender Input Field And Message Input Field
+
+Footnote: Art and Level Design is just for testing purposes, my aim with this was to make a Player Controller, not an actual game
