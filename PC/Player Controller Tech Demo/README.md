@@ -19,4 +19,5 @@ Left Click - Shoot
 
 3 - Equip Knife
 
-Footnote: Art and Level Design is just for testing purposes, my aim with this was to make a Player Controller, not an actual game
+## Footnote
+Art and Level Design is just for testing purposes, my aim with this was to make a Player Controller, not an actual game
