@@ -14,3 +14,6 @@ WASD - Move Around
 Left Click - Swing Sword
 
 Right Click - Block
+
+## Footnote
+Art and Level Design is just for testing purposes, my aim with this was to make a Sword Combat Tech Demo, not an actual game
