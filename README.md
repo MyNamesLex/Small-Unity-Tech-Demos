@@ -2,7 +2,7 @@
 
 (This repo only involves use of the Unity Game Engine using the C# language)
 
-This repo includes aspects where I wanted to try out an idea or test something out
+This repo includes projects where I wanted to try out an idea or test something out
 
 ## Wii
 
